@@ -9,7 +9,7 @@
             "email": "1096381436@qq.com"
         }
 	],
-	"minimum-stability": "stable",
+	"minimum-stability": "alpha",
 	"require": {
 		"php": ">=7.1.0"
 	},
