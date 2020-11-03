@@ -1,11 +1,11 @@
 {
-	"name": "thomas/validator",
+	"name": "chendujin/validator",
 	"description": "各种验证类包",
 	"type": "library",
 	"license": "MIT",
 	"authors": [
 		{
-            "name": "thomas",
+            "name": "chendujin",
             "email": "1096381436@qq.com"
         }
 	],
